@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TheTJIdowu)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TheTJIdowu)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/TheTJIdowu)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/TheTJIdowu)
 
