@@ -1,4 +1,4 @@
-## Greetings, I'm TJ Idowu, an <a href="https://www.linkedin.com/in/olatunji-idowu-9aa297290/">IT professional </a> 
+## Greetings, I'm TJ Idowu, an <a href="https://www.linkedin.com/in/tj-idowu/">IT professional </a> 
 
 <h2>Information Technology Projects:</h2>
 
@@ -11,5 +11,5 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TheTJIdowu)
 
 <h2>Connect with me:</h2>
-<a href="https://www.linkedin.com/in/olatunji-idowu-9aa297290/"><img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/tj-idowu/"><img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
