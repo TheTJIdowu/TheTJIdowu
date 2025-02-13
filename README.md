@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/TheTJIdowu/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TheTJIdowu/osticket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TheTJIdowu/Configuring-Active-Directory)
+  - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/TheTJIdowu/Configuring-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/TheTJIdowu/network-security-groups)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/TheTJIdowu/VPN-Setup)
