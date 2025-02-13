@@ -14,5 +14,5 @@
   - [VPN Setup in Virtual Machine ](https://github.com/TheTJIdowu)
 
 <h2>Connect with me:</h2>
-<a href="https://www.linkedin.com/in/tj-idowu/"><img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/tj-idowu/"><img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
