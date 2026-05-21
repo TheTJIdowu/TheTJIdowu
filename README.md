@@ -13,8 +13,11 @@
   - [VPN Setup in Virtual Machine](https://github.com/TheTJIdowu/VPN-Setup)
 - <b>Microsoft 365</b>
   - [Microsoft 365 User Management Lab](https://github.com/TheTJIdowu/Microsoft-365-Project)
-  
+- <b>PowerShell</b>
+- [PowerShell File and Directory Managment Lab](https://github.com/TheTJIdowu/PowerShell-File-And-Directory-Management-Lab)
 
 <h2>Connect with me:</h2>
-<a href="https://www.linkedin.com/in/tj-idowu/"><img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+LinkedIn: 
+<br>
+<a href="https://www.linkedin.com/in/tj-idowu/"><img LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
